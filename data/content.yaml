@@ -1,0 +1,114 @@
+BasicInfo:
+  FirstName: Tim
+  LastName: Windhorst
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: 484-574-1174
+    - Icon: fas fa-envelope
+      Info: atimw36@gmail.com
+    - Icon: fas fa-globe
+      Info: twindhorst.com
+    - Icon: fas fa-map-marker-alt
+      Info: PA, USA
+
+Profile: I'm what some might call a 'cool nerd'. I've been a gamer and avid fan of the Legend of Zelda since before I can remember. In my early teens I picked up a skateboard and never truly put it down. Fell in love with cars, became a Nissan Senior Specialist Technician (one step short of master tech), before sustaining an injury that motivated me to finally get into tech. I'm a web developer - though I don't like to sell myself as one type or another(I love it all), I'll just say that I've been on an endless mission to learn, execute, assess, and repeat since 2016.
+
+Experience:
+  - Employer: Zelda Universe Volunteer
+    Place: zeldauniverse.net
+    Positions:
+      - Title: Web Developer
+        Date: 2015-2016
+        Details:
+          - Support the development of site features and functionality.
+        Badges: ['HTML', 'CSS', 'JavaScript', 'PHP', 'Remote']
+
+  - Employer: HMP Global
+    Place: Malvern, PA
+    Positions:
+      - Title: eMedia Project Manager(Web Developer)
+        Date: Oct 2016 - Present
+        Details:
+          - Build and maintain Drupal sites of various styles of delivery such as marketing and content driven, etc.
+          - Create custom themes.
+          - Perform core/module updates and other maintenance/security tasks.
+          - Provide support to internal users such as content editors, etc. via training and documentation.
+        Badges: ['Drupal', 'HTML', 'CSS', 'JavaScript', 'Twig', 'PHP', 'Front-end', 'Hybrid/Remote']
+      - Title: Lead QA Engineer
+        Date: January 2022 - Present
+        Details:
+          - Study and implement Agile QA methodologies for the company's first Agile and Software Quality Assurance initiatives.
+          - Have an in depth knowledge of the nature of the various projects and products in development.
+          - Support the software delivery life cycle via the management, planning, and monitoring of exploratory, manual, automated, and performance testing.
+          - Provide metrics and analysis to communicate the state of quality surrounding the SDLC.
+          - Support and train newer or less experienced QA colleagues.
+          - Effectively support and communicate with management, project owners, and developers.
+        Badges: ['Drupal', 'JavaScript', 'Selenium/IDE', 'BrowserStack', 'Loadster', 'Hive', 'Hybrid/Remote']
+
+  - Employer: Local Political Campaign Volunteer
+    Place: PA, USA
+    Positions:
+      - Title: Web Developer
+        Date: Nov 2022 - Present
+        Details:
+          - Understand the message.
+          - Understand the technical needs of the campaign.
+          - Support the campaign's technological needs in any way possible.
+        Badges: ['NationBuilder', 'HTML', 'CSS', 'JavaScript']
+
+Education:
+  - Course: AAS Computer Programming
+    Place: Delaware County Community College
+  - Course: AAS Web Development
+    Place: Delaware County Community College
+  - Course: Mostly self taught!
+
+Skills:
+  - Family: Programming
+    Items:
+      - HTML
+      - CSS
+      - JavaScript
+      - SASS
+      - SQL
+      - PHP
+      - TWIG
+      - Bash
+  - Family: Frameworks
+    Items:
+      - Symfony
+      - JQuery
+      - React
+  - Family: Tools
+    Items:
+      - Wix
+      - Drupal
+      - Wordpress
+      - NationBuilder
+      - Git
+      - WHM/CPanel
+      - Selenium/IDE
+      - BrowserStack
+      - Loadster
+      - Hive
+      - AWS/S3
+      - Digital Ocean
+      - AdvertServe
+      - Vimeo Studio
+      - Omega8 Aegir
+      - Windows
+      - Office
+      - OSX
+      - Adobe CC
+      - Basecamp
+      - Hive
+
+Interests:
+  - Tech
+  - Video Games
+  - Extreme Sports
+  - Fitness
+  - Automotive
+  - Family
+  - Politics
